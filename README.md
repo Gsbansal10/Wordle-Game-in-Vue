@@ -1,4 +1,4 @@
-# Wordle Clone
+# Wordle Game implementation in Vue
 This is a Vue.js implementation of the popular word-guessing game, Wordle.
 
 ![Wordle-game-in-vue-1 5x](https://github.com/Gsbansal10/Wordle-Game/assets/41838055/696a8d11-9c80-42da-8086-194937404b50)
