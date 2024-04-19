@@ -1,7 +1,8 @@
 # Wordle Clone
 This is a Vue.js implementation of the popular word-guessing game, Wordle.
 
-![Wordle Game in Vue.js](/Users/gsb/Library/Containers/com.sindresorhus.Gifski/Data/tmp/TemporaryItems/NSIRD_Gifski_uGCgYL/Wordle-game-in-vue-1.5x.gif)
+![Wordle-game-in-vue-1 5x](https://github.com/Gsbansal10/Wordle-Game/assets/41838055/696a8d11-9c80-42da-8086-194937404b50)
+
 
 ## Features
 Guess the secret 5-letter word in 6 attempts.
